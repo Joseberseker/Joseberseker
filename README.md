@@ -52,8 +52,8 @@ Apasionado por el **desarrollo web**, la **ciencia de datos** y la **automatizac
 
 ## 📌 Proyectos Destacados  
 
-- 🤖 **[Chatbot Académico](#)** – Asistente en Python con TensorFlow y NLTK para responder preguntas universitarias.  
-- 🛒 **[App de Autopartes](#)** – Aplicación de análisis de ventas con Scikit-Learn y Pandas.  
+- 🔧 **[Landing Page de Tarjetas de Sección de Servicios](https://github.com/Joseberseker/maquetado-seccion-servicios)** – Maquetado web utilizando HTML, CSS y JavaScript con React , Vite y TailwindCss guiándome del reto propuesto en Frontendmentor.  
+- 🛒 **[App de TiendaAbarrotes](https://github.com/Joseberseker/TiendaAbarrotes)** – Aplicación de análisis de inventarios faltantes con Scikit-Learn y Pandas.  
 - 💰 **[Calculadora Financiera](https://github.com/Joseberseker/calculadora-financiera)** – Herramienta web para cálculos financieros con HTML, CSS, JS y Bootstrap.  
 - 🌐 **[Portafolio Web](https://jose-ahumada.netlify.app/)** – Muestra de proyectos, experiencia y contacto.  
 
