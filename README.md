@@ -82,6 +82,12 @@ En el trabajo manejo WhatsApp Business API, webhooks e IA conversacional (LLM/RA
 
 Extensión de Chrome (Manifest V3) que graba pantalla, pestaña o ventana, convierte a **MP4 (H.264 + AAC)** en el propio equipo y transcribe el audio con **Whisper local**. 100% local: sin backend, sin subir vídeo ni audio.
 
+### 🤖 [Asistente FAQ con RAG — Telegram + Widget Web](https://github.com/Joseberseker/rag-faq-telegram)
+
+<a href="https://github.com/Joseberseker/rag-faq-telegram"><img src="https://raw.githubusercontent.com/Joseberseker/rag-faq-telegram/main/docs/screenshots/03-conversacion.png" alt="Conversación en el widget — Asistente FAQ con RAG" style="max-width: 100%; width: 640px;"/></a>
+
+Asistente de soporte con **RAG 100% local** (Ollama + Chroma, sin APIs pagas) para un e-commerce: responde por **Telegram** y por un **widget de chat embebible**, citando siempre la fuente de la respuesta. Guardrail anti-alucinación de dos capas y memoria de conversación persistente.
+
 ### Otros proyectos
 
 - 🔧 **[Landing Page de Tarjetas de Sección de Servicios](https://github.com/Joseberseker/maquetado-seccion-servicios)** – Maquetado web utilizando HTML, CSS y JavaScript con React, Vite y TailwindCSS guiándome del reto propuesto en Frontendmentor.
