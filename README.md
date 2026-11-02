@@ -2,10 +2,6 @@
 
 ### Full Stack Developer · Asistentes Virtuales · IA Conversacional
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-jose--ahumada.netlify.app-39E09B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://jose-ahumada.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Ahumada_Navarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-ahumada-navarro/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Hablemos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/573004237458)
-
 Construyo asistentes virtuales de forma práctica: primero en Telegram, después en WhatsApp. Menos humo, más un bot que sí ayude en el día a día.
 
 En el trabajo manejo WhatsApp Business API, webhooks e IA conversacional (LLM/RAG) sobre infraestructura AWS. Vengo del análisis de datos y la automatización, y hoy enfoco ese fondo en productos conversacionales que la gente usa de verdad.
@@ -68,12 +64,6 @@ En el trabajo manejo WhatsApp Business API, webhooks e IA conversacional (LLM/RA
 
 ---
 
-## 📊 Skill Graph
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseberseker&layout=compact&theme=radical)
-
----
-
 ## 📌 Proyectos Destacados
 
 ### 🎥 [Grabador de Pantalla con IA](https://github.com/Joseberseker/grabador-ia)
@@ -88,12 +78,13 @@ Extensión de Chrome (Manifest V3) que graba pantalla, pestaña o ventana, convi
 
 Asistente de soporte con **RAG 100% local** (Ollama + Chroma, sin APIs pagas) para un e-commerce: responde por **Telegram** y por un **widget de chat embebible**, citando siempre la fuente de la respuesta. Guardrail anti-alucinación de dos capas y memoria de conversación persistente.
 
-### Otros proyectos
+### 🔴 [Marte en el navegador — Rover Perseverance](https://github.com/Joseberseker/perseverancia)
 
-- 🔧 **[Landing Page de Tarjetas de Sección de Servicios](https://github.com/Joseberseker/maquetado-seccion-servicios)** – Maquetado web utilizando HTML, CSS y JavaScript con React, Vite y TailwindCSS guiándome del reto propuesto en Frontendmentor.
-- 🛒 **[App de TiendaAbarrotes](https://github.com/Joseberseker/TiendaAbarrotes)** – Aplicación de análisis de inventarios faltantes con Scikit-Learn y Pandas.
-- 💰 **[Calculadora Financiera](https://github.com/Joseberseker/calculadora-financiera)** – Herramienta web para cálculos financieros con HTML, CSS, JS y Bootstrap.
-- 🌐 **[Portafolio Web](https://github.com/Joseberseker/web-portafolio)** – Este portafolio ([demo en vivo](https://jose-ahumada.netlify.app/)): muestra de proyectos, experiencia y contacto.
+<a href="https://github.com/Joseberseker/perseverancia"><img src="https://raw.githubusercontent.com/Joseberseker/perseverancia/main/docs/capturas/rover.png" alt="El rover Perseverance sobre las dunas marcianas" style="max-width: 100%; width: 640px;"/></a>
+
+Un atardecer en el cráter Jezero renderizado en tiempo real con **Three.js**, con el rover **Perseverance de la NASA** conducible a escala real (3 m, WASD, huellas que quedan en la arena). Terreno, cielo, lunas y polvo son **100% procedurales**: simplex noise y shaders escritos a mano, sin texturas descargadas. Incluye verificación automática con Playwright que captura la escena y falla si hay errores de consola.
+
+Hecho como práctica del **Curso de Claude Code para Programadores**.
 
 El resto de proyectos en roadmap se irán sumando aquí con su propia captura a medida que avancen.
 
